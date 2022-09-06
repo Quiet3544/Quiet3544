@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @QuietHadi
-- 👀 I’m interested in programming AI, utility programs and robots!
+- 👋 Hi, I’m Hadi
+- 👀 I’m interested in programming AI, games,  utility programs and robots!
 - 🌱 I’m currently learning nothing at the moment
