@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hadi
-- 👀 I’m interested in programming AI, games,  utility programs and robots!
-- 🌱 I’m currently learning nothing at the moment
+- 👀 I’m interested in programming game engines, games,  utility programs and robots!
+- 🌱 I’m currently learning OpenGL
